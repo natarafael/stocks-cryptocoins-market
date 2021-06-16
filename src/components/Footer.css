@@ -1,0 +1,28 @@
+.main-footer {
+  color: black;
+  background-color: #f2f2fc;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.row {
+  text-align: center;
+}
+h4 {
+  font-size: 16px;
+  padding-bottom: 8px;
+}
+
+ul li {
+  font-size: 13px;
+}
+
+.col-sm {
+  font-size: 14px;
+}
+
+hr {
+  margin: 10px;
+}
