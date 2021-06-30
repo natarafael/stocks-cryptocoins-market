@@ -61,12 +61,15 @@ ul li a:hover {
   color: #f2f2fc;
 }
 
-.page-container {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+.title {
+  text-align: center;
+  margin-left: 38%;
+  font-size: 27px;
+  position: absolute;
 }
 
-.content-wrap {
-  flex: 1;
+.weather {
+  margin-left: 90%;
+  font-size: 50px;
+  position: absolute;
 }
